@@ -1,8 +1,5 @@
 package com.horlando.cursomc.resources;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;//Imcapsula uma estrutura de serviço rest http automaticamente
 import org.springframework.web.bind.annotation.PathVariable;
