@@ -14,7 +14,7 @@ import com.horlando.cursomc.repositories.ProdutoRepository;
 
 @SpringBootApplication
 public class CursomcApplication implements CommandLineRunner{
-	
+	//automaticamente instanciada, pelo mecanismo de injeção de dependecias
 	@Autowired
 	private CategoriaRepository categoriaRepository;
 	@Autowired
