@@ -1,4 +1,4 @@
-# Sistem de pedidos
+# Sistema de pedidos
 
 ## Estudando Java em casos de usos reais e completo.
 
