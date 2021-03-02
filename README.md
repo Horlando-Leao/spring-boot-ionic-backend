@@ -10,4 +10,5 @@
 5. Relacionamento muitos para muitos ORM
 6. Arquitetura de serviço Rest implementado em Java
 7. Maven
-8. Continua...
+8. estudo de caso Rest
+9. Continua...
